@@ -12,16 +12,16 @@ data augmentation tool for object detection and segmentation (random synthesis)
 
 ## Data Organization
 * data-augmentation
-  * bg (background images)
+ * bg (background images)
    * 1.jpg
    * 2.jpg
    * ...
    * 100.jpg
-  * dataset (save path)
+ * dataset (save path)
    * Images: Synthesized rgb images
    * labels: labels for YOLO training
    * Masks: Masks for each object (segmentation data, maximum value=1)
-  * images (object images without background)
+ * images (object images without background)
    * 01_0001.png
    * 01_0002.png
    * ...
