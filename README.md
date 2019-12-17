@@ -2,7 +2,7 @@
 data augmentation tool for object detection and segmentation (random synthesis)
 
 ## Generated Images
-<img src="https://github.com/david-y-e/data-augmentation/examples/000045.png" width="50%" height="50%">
+<img src="./examples/000045.jpg" width="50%" height="50%">
 
 ## Requirement
 * python 2.7
