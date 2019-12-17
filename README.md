@@ -1,5 +1,5 @@
 # Data Augmentation
-data augmentation tool for object detection and segmentation (random synthesis)
+data augmentation tool to generate data for object detection and segmentation (random synthesis)
 
 ## Generated Images
 <img src="./examples/000045.jpg" width="40%" height="40%"> <img src="./examples/000025.jpg" width="40%" height="40%">
