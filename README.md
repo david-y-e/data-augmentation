@@ -3,4 +3,10 @@ data augmentation tool (random synthesis)
 
 ## Data Organization
 * data-augmentation
-  * test
+  * bg
+  * dataset
+  * images
+    * 01_0001.png
+    * 01_0002.png
+    * ...
+    * 02_0001.png
