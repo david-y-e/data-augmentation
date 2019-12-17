@@ -1,0 +1,15 @@
+{
+  "CONFIG": {
+    "IMAGE_PATH": "images",
+    "BG_PATH": "bg",
+    "SAVE_PATH": "dataset",
+    "CLASSES": ["red_block", "green_block"],
+    "ROTATION": true,
+    "SCALE": true,
+    "NUM_MIN_OBJ": 2,
+    "NUM_MAX_OBJ": 4,
+    "SCALE_MIN": 50,
+    "SCALE_MAX": 150,
+    "NUM_IMAGES": 1000
+  }
+}
